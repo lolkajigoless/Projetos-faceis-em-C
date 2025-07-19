@@ -1,6 +1,0 @@
-Nome,Idade,Nota
-
-paulo,6,2.5
-----
-joao,9,9.0
-----
