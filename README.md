@@ -8,7 +8,7 @@
 ### 4 - Inverter uma string (Sem uso de biblioteca);
 ### 5 - Escrever nomes digitados pelo usuário num arquivo;
 ### 6 - Salvar tabuadas em um arquivo;
-### 7 - Objetivo: Fazer cadastro de Alunos.
+### 7 - Fazer cadastro de Alunos.
 
 --- 
 ## Como Rodar o Projeto
